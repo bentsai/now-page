@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/bentsai
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.bentsai.org
+  * I am bentsai (https://keybase.io/bentsai) on keybase.
+  * I have a public key ASCawrGpDLh_XZwY4qpuBIZx3_SPjtwxVMzG7zxqQVJBBwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010189a2df2cc676e13d692e1dabbcfa71e0c58401b715adf98b657cd80bd0ea410f0a",
+      "host": "keybase.io",
+      "kid": "01209ac2b1a90cb87f5d9c18e2aa6e048671dff48f8edc3154ccc6ef3c6a415241070a",
+      "uid": "d5f3796f4ffd3f4935dd630eb5fa9819",
+      "username": "bentsai"
+    },
+    "merkle_root": {
+      "ctime": 1555618713,
+      "hash": "30d6f2b813b8817fae53b9fc941fdf191d136677f0f1814b99d1fff8b10f8adada5bec142b50f210e0e0faf4ea1c336dc0a5c097c401e06063681fb427029d60",
+      "hash_meta": "e93680557379ce0fd7d882f9204bb1b003b24330e91373411c9492c14bfc0cf8",
+      "seqno": 5201543
+    },
+    "service": {
+      "entropy": "v6tqveE+Tk5jOl+y3ypAFZCK",
+      "hostname": "www.bentsai.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.2.2"
+  },
+  "ctime": 1555618742,
+  "expire_in": 504576000,
+  "prev": "ee57d644379a0e142d04f8adbe937c7707f4f6e20eb830cab3436332c6bb39b2",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgmsKxqQy4f12cGOKqbgSGcd/0j47cMVTMxu88akFSQQcKp3BheWxvYWTESpcCDMQg7lfWRDeaDhQtBPitvpN8dwf09uIOuDDKs0NjMsa7ObLEIP5XqtrDhWcziuFA2JsYz/3JiRuHJBlCKg4xMgumRuTxAgHCo3NpZ8RAib7yBTp26sUJ6ZzyVlHr4hh+yqdM4cxjDzcu/Zm7MCFsAPIyxXYjtMCWVfrrNeToh2QgAhtiztnkWE1nJGl8AahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJKJhs5WHbYOPttCK328pd1DHMKLBUz93/rBhJtiibudo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bentsai
+
+==================================================================
